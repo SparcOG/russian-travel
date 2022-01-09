@@ -1,0 +1,13 @@
+@import url('normalize.css');
+@import url('../blocks/page/page.css');
+@import url('fonts.css');
+
+
+/*Блок profile-editing*/
+@import url('../blocks/profile-editing/profile-editing.css');
+
+/*Элементы profile-editing*/
+@import url('../blocks/profile-editing/__form/profile-editing__form.css');
+@import url('../blocks/profile-editing/__input-container/profile-editing__input-container.css');
+@import url('../blocks/profile-editing/__input/profile-editing__input.css');
+@import url('../blocks/profile-editing/__title/profile-editing__title.css');
