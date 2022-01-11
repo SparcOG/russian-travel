@@ -1,0 +1,20 @@
+.profile-editing__pseudo-button {
+  cursor: pointer;
+  min-height: 50px;
+  margin: 48px 0 37px 0;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'inter';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.profile-editing__pseudo-button:hover {
+    opacity: 80%;
+}
+
+
