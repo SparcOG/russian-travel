@@ -1,22 +1,41 @@
 @import url('normalize.css');
 @import url('fonts.css');
 
-/*Блок page*/
+/*block page*/
 @import url('../blocks/page/page.css');
 
-/*Блок header*/
+
+/*block header*/
 @import url('../blocks/header/header.css');
-/*Элементы header*/
+/*elements header*/
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__language/header__language.css');
 @import url('../blocks/header/__language-text/header__language-text.css');
 
-/*Блок main*/
+
+/*block main*/
 @import url('../blocks/main/main.css');
-/*Элементы main*/
+/*elements main*/
 @import url('../blocks/main/__title/main__title.css');
 @import url('../blocks/main/__subtitle/main__subtitle.css');
-@import url('../blocks/main/__image/main__image.css');
-@import url('../blocks/main/__text/main__text.css');
 
 
+/*block content*/
+@import url('../blocks/content/content.css');
+
+
+/*block description*/
+@import url('../blocks/description/description.css');
+/*elements description*/
+@import url('../blocks/description/__main-image/description__main-image.css');
+@import url('../blocks/description/__decorative-text/description__decorative-text.css');
+@import url('../blocks/description/__titile/description__titile.css');
+@import url('../blocks/description/__text/description__text.css');
+@import url('../blocks/description/__list/description__list.css');
+@import url('../blocks/description/__text-list/description__text-list.css');
+@import url('../blocks/description/__text-bold/description__text-bold.css');
+
+/*block gallery*/
+@import url('../blocks/gallery/gallery.css');
+/*element gallery*/
+@import url('../blocks/gallery/__image/gallery__image.css');
