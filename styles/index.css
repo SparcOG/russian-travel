@@ -13,21 +13,17 @@
 @import url('../blocks/header/__language-text/header__language-text.css');
 
 
-/*block main*/
-@import url('../blocks/main/main.css');
-/*elements main*/
-@import url('../blocks/main/__title/main__title.css');
-@import url('../blocks/main/__subtitle/main__subtitle.css');
-
-
-/*block content*/
-@import url('../blocks/content/content.css');
+/*block lead*/
+@import url('../blocks/lead/lead.css');
+/*elements lead*/
+@import url('../blocks/lead/__main-image/lead__main-image.css');
+@import url('../blocks/lead/__title/lead__title.css');
+@import url('../blocks/lead/__subtitle/lead__subtitle.css');
 
 
 /*block description*/
 @import url('../blocks/description/description.css');
 /*elements description*/
-@import url('../blocks/description/__main-image/description__main-image.css');
 @import url('../blocks/description/__decorative-text/description__decorative-text.css');
 @import url('../blocks/description/__titile/description__titile.css');
 @import url('../blocks/description/__text/description__text.css');
