@@ -19,12 +19,12 @@
 @import url('../blocks/lead/__main-image/lead__main-image.css');
 @import url('../blocks/lead/__title/lead__title.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
+@import url('../blocks/lead/__decorative-text/lead__decorative-text.css');
 
 
 /*block description*/
 @import url('../blocks/description/description.css');
 /*elements description*/
-@import url('../blocks/description/__decorative-text/description__decorative-text.css');
 @import url('../blocks/description/__titile/description__titile.css');
 @import url('../blocks/description/__text/description__text.css');
 @import url('../blocks/description/__list/description__list.css');
