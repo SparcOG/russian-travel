@@ -1,6 +1,8 @@
 .place__website {
+  list-style-type: none;
   grid-column-start: 2;
   grid-row-start: 1;
   align-self: end;
   margin: 0 0 48px;
+  padding: 0;
 }
