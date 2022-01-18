@@ -43,21 +43,17 @@ block gallery*/
 /*element gallery*/
 @import url('../blocks/gallery/__image/gallery__image.css');
 
-.place {
-  display: grid;
-  grid-template-columns: 460px 484px;
-  grid-template-rows: 152px 460px;
-  justify-content: center;
-}
+/*
 
-.place__website {
-grid-column-start: 2;
-grid-row-start: 1;
-align-self: end;
-margin: 0 0 48px;
-}
+block places*/
+@import url('../blocks/places/places.css');
 
-.place__image {
-  width: 460px;
-  height: 460px;
-}
+/*
+
+block place*/
+@import url('../blocks/place/place.css');
+/*elements place*/
+@import url('../blocks/places/__title/place__title.css');
+@import url('../blocks/places/__website/place__website.css');
+@import url('../blocks/places/__image/place__image.css');
+@import url('../blocks/places/__paragraph/place__paragraph.css');
