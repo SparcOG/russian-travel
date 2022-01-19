@@ -61,3 +61,32 @@ block place*/
 @import url('../blocks/place/__website/place__website.css');
 @import url('../blocks/place/__image/place__image.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
+
+.footer {
+  width: 1184px;
+
+}
+
+.footer__cover {
+  position: relative;
+}
+
+.footer__background {
+  width: 1184px;
+  height: 740px;
+}
+
+.footer__overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.footer__title {
+
+}
+
+.footer__subtitle {
+
+}
