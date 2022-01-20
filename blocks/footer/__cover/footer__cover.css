@@ -1,6 +1,13 @@
 .footer__cover {
   position: relative;
+  z-index: 2;
 }
+
+.footer__cover:hover {
+  cursor: pointer;
+  background-color: #355688;
+}
+
 
 .footer__cover::before{
   content: '';
