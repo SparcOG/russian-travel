@@ -11,6 +11,7 @@ block page*/
 block header*/
 @import url('../blocks/header/header.css');
 /*elements*/
+@import url('../blocks/header/__place/header__place.css');
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__lang/header__lang.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
@@ -22,16 +23,21 @@ block header*/
 block lead*/
 @import url('../blocks/lead/lead.css');
 /*elements*/
-@import url('../blocks/lead/__main-image/lead__main-image.css');
 @import url('../blocks/lead/__title/lead__title.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
-@import url('../blocks/lead/__decorative-text/lead__decorative-text.css');
+
+/*
+
+block content*/
+@import url('../blocks/content/content.css');
 
 /*
 
 block description*/
 @import url('../blocks/description/description.css');
 /*elements*/
+@import url('../blocks/description/__main-image/description__main-image.css');
+@import url('../blocks/description/__decorative-text/description__decorative-text.css');
 @import url('../blocks/description/__titile/description__titile.css');
 @import url('../blocks/description/__text/description__text.css');
 @import url('../blocks/description/__list/description__list.css');
@@ -62,31 +68,14 @@ block place*/
 @import url('../blocks/place/__image/place__image.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
 
-.footer {
-  width: 1184px;
+/*
 
-}
-
-.footer__cover {
-  position: relative;
-}
-
-.footer__background {
-  width: 1184px;
-  height: 740px;
-}
-
-.footer__overlay {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.footer__title {
-
-}
-
-.footer__subtitle {
-
-}
+block footer*/
+@import url('../blocks/footer/footer.css');
+/*elements*/
+@import url('../blocks/footer/__background/footer__background.css');
+@import url('../blocks/footer/__cover/footer__cover.css');
+@import url('../blocks/footer/__overlay/footer__overlay.css');
+@import url('../blocks/footer/__title/footer__title.css');
+@import url('../blocks/footer/__subtitle/footer__subtitle.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css'); 

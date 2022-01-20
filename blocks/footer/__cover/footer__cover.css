@@ -1,0 +1,12 @@
+.footer__cover {
+  position: relative;
+}
+
+.footer__cover::before{
+  content: '';
+  position:absolute;
+  background-color: #2A2C2F;
+  width: 1184px;
+  height: 740px;
+  opacity: 0.3;
+}
