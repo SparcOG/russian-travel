@@ -1,9 +1,15 @@
 .footer__overlay {
   display: flex;
-  flex-direction: column;
+  justify-content: center;
   align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(41, 43, 46, 0.3);
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 0;
+  right: 0;
+}
+
+.footer__overlay:hover {
+  background-color: rgba(41, 43, 46, 0.8);;
 }
