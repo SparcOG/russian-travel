@@ -14,6 +14,7 @@ block header*/
 @import url('../blocks/header/__space/header__space.css');
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__lang/header__lang.css');
+@import url('../blocks/header/__list/header__list.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
 /*modifier*/
 @import url('../blocks/header/__lang-link/_aсtive/header__lang-link_aсtive.css');
