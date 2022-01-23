@@ -2,9 +2,14 @@
   display: grid;
   justify-content: center;
   grid-template-columns: repeat(auto-fit, 284px);
-  gap: 16px;
+  grid-gap: 16px;
   width: 100%;
   padding: 92px 0 0 0;
 }
 
-
+@media screen and (max-width: 1183px) {
+  .gallery {
+    grid-template-columns: repeat(auto-fit, 300px);
+    grid-gap: 16px;
+  }
+} 
