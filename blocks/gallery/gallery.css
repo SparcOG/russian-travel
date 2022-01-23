@@ -3,8 +3,8 @@
   justify-content: center;
   grid-template-columns: repeat(auto-fit, 284px);
   gap: 16px;
+  width: 100%;
   padding: 92px 0 0 0;
-
 }
-/*
+
 
