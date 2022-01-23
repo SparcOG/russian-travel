@@ -7,7 +7,7 @@
   padding: 92px 0 0 0;
 }
 
-@media screen and (max-width: 1183px) {
+@media screen and (max-width: 1024px) {
   .gallery {
     grid-template-columns: repeat(auto-fit, 300px);
     grid-gap: 16px;
