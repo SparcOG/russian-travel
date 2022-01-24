@@ -18,5 +18,6 @@
   .gallery {
     grid-template-columns: repeat(auto-fit, 352px);
     grid-gap: 16px;
+    padding: 88px 0 0 0;
   }
 } 

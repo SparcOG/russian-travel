@@ -2,5 +2,11 @@
   font-weight: 900;
   font-size: 54px;
   line-height: 58px;
-  margin: 92 0 0 0;
+  margin: 114px 0 0 0;
 }
+
+@media screen and (max-width: 768px) {
+  .description__titile {
+    margin: 110px 0 0 0;
+  }
+} 

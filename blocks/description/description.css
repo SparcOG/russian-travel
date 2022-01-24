@@ -1,6 +1,12 @@
 .description {
-  padding: 64px 48px 0 48px;
+  padding: 64px 0 0 0;
   max-width: 984px;
+}
+
+@media screen and (max-width: 1024px) {
+  .description {
+    padding: 56px 48px 0 48px;
+  }
 }
 
 @media screen and (max-width: 768px) {
