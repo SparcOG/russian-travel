@@ -5,3 +5,9 @@
   line-height: 26px;
   margin: 40px 0 33px 0;
 }
+
+@media screen and (max-width: 768px) {
+  .description__text {
+    max-width: 720px;
+  }
+} 
