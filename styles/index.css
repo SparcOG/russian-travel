@@ -39,6 +39,7 @@ block description*/
 /*elements*/
 @import url('../blocks/description/__main-image/description__main-image.css');
 @import url('../blocks/description/__decorative-text/description__decorative-text.css');
+@import url('../blocks/description/__intro/description__intro.css');
 @import url('../blocks/description/__titile/description__titile.css');
 @import url('../blocks/description/__text/description__text.css');
 @import url('../blocks/description/__list/description__list.css');

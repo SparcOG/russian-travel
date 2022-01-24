@@ -10,6 +10,13 @@
 @media screen and (max-width: 1024px) {
   .gallery {
     grid-template-columns: repeat(auto-fit, 300px);
+    grid-gap: 14px;
+  }
+} 
+
+@media screen and (max-width: 768px) {
+  .gallery {
+    grid-template-columns: repeat(auto-fit, 352px);
     grid-gap: 16px;
   }
 } 
