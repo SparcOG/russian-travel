@@ -11,6 +11,12 @@
 
 @media screen and (max-width: 768px) {
   .description {
-    padding: 64px 0 0 0;
+    padding: 56px 0 0 0;
+  }
+} 
+
+@media screen and (max-width: 320px) {
+  .description {
+    padding: 40px 0 0 0;
   }
 } 

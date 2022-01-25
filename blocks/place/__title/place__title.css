@@ -5,3 +5,20 @@
   align-self: end;
   margin: 0 0 48px 0;
 }
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 46px;
+  }
+} 
+
+@media screen and (max-width: 320px) {
+  .place__title {
+    font-size: 32px;
+    line-height: 35px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    margin: 0 0 32px 0;
+  }
+} 

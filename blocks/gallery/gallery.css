@@ -21,3 +21,11 @@
     padding: 88px 0 0 0;
   }
 } 
+
+@media screen and (max-width: 320px) {
+  .gallery {
+    padding: 64px 0 0 0;
+    grid-gap: 12px;
+    grid-template-columns: repeat(auto-fit, 288px);
+  }
+} 
