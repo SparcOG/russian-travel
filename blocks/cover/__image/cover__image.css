@@ -17,6 +17,12 @@
   }
 }
 
+@media screen and (max-width: 500px) {
+  .cover__image {
+    min-height: 350px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .cover__image {
     min-height: 200px;
