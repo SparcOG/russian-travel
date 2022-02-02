@@ -4,4 +4,9 @@
   line-height: 28px;
   color: #fff;
   text-decoration: none;
+  transition: opacity .3s linear;
+}
+
+.header__link:hover {
+  opacity: .5;
 }
