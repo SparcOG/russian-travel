@@ -1,4 +1,4 @@
-.footer__title {
+.cover__title {
   font-size: 72px;
   font-weight: 900;
   line-height: 76px;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 506px) {
-  .footer__title {
+  .cover__title {
     font-size: 32px;
     line-height: 35px;
   }

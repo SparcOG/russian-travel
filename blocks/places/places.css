@@ -4,16 +4,16 @@
   padding: 92px 48px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 950px) {
   .places {
     grid-gap: 73px;
     padding: 88px 24px 90px 24px;
   }
-} 
+}
 
 @media screen and (max-width: 320px) {
   .places {
     grid-gap: 50px;
     padding: 64px 0 66px 0;
   }
-} 
+}

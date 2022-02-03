@@ -7,7 +7,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 730px) {
   .place__website {
     grid-column-start: 1;
     grid-column-end: 2;
@@ -15,4 +15,4 @@
     grid-row-end: 2;
     margin: 0 0 32px;
   }
-} 
+}

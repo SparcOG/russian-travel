@@ -1,4 +1,4 @@
-.description__titile {
+.description__title {
   font-weight: 900;
   font-size: 54px;
   line-height: 58px;
@@ -6,20 +6,20 @@
 }
 
 @media screen and (max-width: 768px) {
-  .description__titile {
+  .description__title {
     margin: 88px 0 0 0;
   }
-} 
+}
 
 @media screen and (max-width: 676px) {
-  .description__titile {
+  .description__title {
     font-size: 32px;
     line-height: 35px;
   }
-} 
+}
 
 @media screen and (max-width: 320px) {
-  .description__titile {
+  .description__title {
     margin: 64px 0 0 0;
   }
-} 
+}
