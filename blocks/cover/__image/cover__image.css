@@ -2,6 +2,8 @@
   width: 100%;
   max-width: 1184px;
   min-height: 740px;
+  top: 0;
+  right: 0;
   position: absolute;
   object-fit: cover;
 }

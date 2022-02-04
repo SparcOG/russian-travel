@@ -13,6 +13,7 @@
   font-display: swap;
   src: url('../fonts/inter/Inter-Bold.woff2') format("woff2"),
        url('../fonts/inter/Inter-Bold.woff') format("woff");
+}
 
 @font-face {
   font-family: 'Inter';
